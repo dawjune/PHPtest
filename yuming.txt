@@ -1,0 +1,8 @@
+domain=fastfish.tk                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "8cc148fa443b4a42aaf76b3bdcf0610b",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"remark":"无匹配记录","obj":{"num":"","update_time":"","address":"","sys_name":"","domain":"fastfish.tk","com_name":"","type":""}}
+                }
+                
+
